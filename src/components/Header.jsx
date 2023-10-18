@@ -10,7 +10,6 @@ const Header = () => {
               Bright Touch<span>.</span>
             </a>
           </h1>
-          {/* <!-- Uncomment below if you prefer to use an image logo --> */}
           <a href="index.html" class="logo me-auto me-lg-0">
             <img src="assets/img/logo.png" alt="" class="img-fluid" />
           </a>
